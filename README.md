@@ -1,5 +1,13 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+# Jasmin Test developer
+
+This is simply an exercise in Jasmine test implementation.
+
+The very basic JavaScript algorithms described below were part of a pair-programming lab at Ironkack WebDeb bootcamp's week 1, day 4.
+
+For Jasmin, I have installed the npm packages and the Jasmin standalone v 5.1.1
+
 # LAB | JS Basic Algorithms
 
 Welcome to your first JavaScript lab at Ironhack!
