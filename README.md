@@ -4,7 +4,7 @@
 
 This is simply an exercise in Jasmine test implementation.
 
-The very basic JavaScript algorithms described below were part of a pair-programming lab at Ironkack WebDeb bootcamp's week 1, day 4.
+The very basic JavaScript algorithms described below were part of a pair-programming lab at Ironkack WebDev bootcamp's week 1, day 4.
 
 For Jasmin, I have installed the npm packages and the Jasmin standalone v 5.1.1
 
